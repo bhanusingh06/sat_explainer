@@ -1,0 +1,114 @@
+{
+  "type": "unsat_with_core",
+  "primary_explanation": {
+    "type": "unsat_explanation",
+    "conflict_clause": {
+      "lits": [
+        14,
+        -78,
+        -362
+      ],
+      "rule_id": "",
+      "note": ""
+    },
+    "falsified_literals": [
+      14,
+      -78,
+      -362
+    ],
+    "assumption_causes": [
+      15,
+      81
+    ],
+    "involved_rules": [
+      {
+        "rule_id": "",
+        "description": ""
+      }
+    ]
+  },
+  "mus_size": 9,
+  "mus_clauses": [
+    {
+      "lits": [
+        77,
+        -81
+      ],
+      "rule_id": "",
+      "note": ""
+    },
+    {
+      "lits": [
+        -81,
+        170
+      ],
+      "rule_id": "",
+      "note": ""
+    },
+    {
+      "lits": [
+        -81,
+        180
+      ],
+      "rule_id": "",
+      "note": ""
+    },
+    {
+      "lits": [
+        -81,
+        356
+      ],
+      "rule_id": "",
+      "note": ""
+    },
+    {
+      "lits": [
+        -81,
+        362
+      ],
+      "rule_id": "",
+      "note": ""
+    },
+    {
+      "lits": [
+        14,
+        -78,
+        -362
+      ],
+      "rule_id": "",
+      "note": ""
+    },
+    {
+      "lits": [
+        -14,
+        -15,
+        -170
+      ],
+      "rule_id": "",
+      "note": ""
+    },
+    {
+      "lits": [
+        -15,
+        -80,
+        -180
+      ],
+      "rule_id": "",
+      "note": ""
+    },
+    {
+      "lits": [
+        -77,
+        78,
+        80,
+        -356
+      ],
+      "rule_id": "",
+      "note": ""
+    }
+  ],
+  "mus_rules": [],
+  "hints_used": [
+    15
+  ]
+}
